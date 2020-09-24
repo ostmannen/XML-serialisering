@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Weapon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>hje</name>
+  <damage>10</damage>
+  <reach>2</reach>
+  <cost>100</cost>
+</Weapon>
